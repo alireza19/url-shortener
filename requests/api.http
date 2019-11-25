@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl":"https://www.amazon.ca/gp/product/B01ETK98QI?pf_rd_p=166ffdfc-3741-4c47-bf8d-82d1def52b0e&pf_rd_r=MR705EVZF5H9RJX9KD0H"
+}
